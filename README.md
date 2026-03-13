@@ -48,4 +48,4 @@
 
 ### 📬 Contato
 
-📧 <a href="/cdn-cgi/l/email
+📧 danielstoscarmo@gmail.com
