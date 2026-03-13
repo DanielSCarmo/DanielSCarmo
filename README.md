@@ -19,6 +19,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -29,18 +30,18 @@
 
 | Projeto / Evento | Ano |
 |---|---|
-| 💻 Hackathon HackAçu 3ª Edição | 2024 |
-| 🤖 Imersão Inteligência Artificial — Alura 2ª Edição | 2024 |
-| 🌱 Olimpíada de Inovação do Agronegócio (OiAgro) | 2024 |
-| 🐠 Aquário Automático — Eletrônica Analógica (IFMG) | 2023 |
 | ⚡ Fonte de Alimentação CC Linear — Eletrônica Analógica (IFMG) | 2023 |
+| 🐠 Aquário Automático — Eletrônica Analógica (IFMG) | 2023 |
+| 💻 Hackathon HackAçu 3ª Edição | 2024 |
+| 🌱 Olimpíada de Inovação do Agronegócio (OiAgro) | 2024 |
+| 🤖 Imersão Inteligência Artificial — Alura 2ª Edição | 2024 |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielSCarmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielSCarmo&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSCarmo&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
@@ -48,10 +49,13 @@
 
 ### 📬 Contato
 
-<p align="left">
-  <a href="/cdn-cgi/l/email-protection#99fdf8f7f0fcf5eaedf6eafaf8ebf4f6d9fef4f8f0f5b7faf6f4">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+📧 danielstoscarmo@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielSCarmo&color=00B4D8&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
+</p>
   <a href="https://github.com/DanielSCarmo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
