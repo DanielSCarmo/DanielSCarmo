@@ -50,18 +50,3 @@
 ### 📬 Contato
 
 📧 danielstoscarmo@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielSCarmo&color=00B4D8&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
-</p>
-  <a href="https://github.com/DanielSCarmo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielSCarmo&color=00B4D8&style=flat-square&label
